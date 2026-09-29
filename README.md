@@ -97,12 +97,6 @@ I'm particularly interested in how AI can understand an existing codebase, engin
 
 ---
 
-## 📈 GitHub
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikkrantxx7&show_icons=true&hide_border=true&rank_icon=github)](https://github.com/vikkrantxx7)
-
----
-
 ### 💬 Let's build something useful.
 
 Open source, frontend architecture, developer tooling or AI-assisted engineering — I'm always interested in interesting problems.
