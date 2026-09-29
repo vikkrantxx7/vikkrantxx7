@@ -10,9 +10,7 @@ I build **scalable, maintainable web applications** and developer tooling, with 
 
 Over the years I've worked across large enterprise applications and modern frontend stacks, and more recently I've been exploring **AI-assisted software engineering and agentic development workflows**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?logo=googlechrome&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/vikkrantxx7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikrant-sharma-001/)
 
 ---
 
